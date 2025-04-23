@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01-Register dengan data yang valid_positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eafc7c9b-ea34-4404-ba83-d39ced43af14</testCaseGuid>
+</TestCaseEntity>

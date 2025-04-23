@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07-Membuka akun baru_positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b607619b-c9e1-4aa3-91c2-ab2dff43f535</testCaseGuid>
+</TestCaseEntity>

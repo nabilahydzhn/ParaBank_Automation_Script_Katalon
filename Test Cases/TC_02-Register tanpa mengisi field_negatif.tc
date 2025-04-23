@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02-Register tanpa mengisi field_negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cec3f810-e6ed-4d49-90c3-6e9b284cacfb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04-Login dengan data yang valid_positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42169f8a-0eb0-4200-bdee-2c8793f066f5</testCaseGuid>
+</TestCaseEntity>

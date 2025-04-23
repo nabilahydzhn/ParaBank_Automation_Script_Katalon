@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08-Melihat list account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b26a46cd-ebee-429b-89ee-f6fd6bee2d2e</testCaseGuid>
+</TestCaseEntity>
